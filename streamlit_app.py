@@ -358,7 +358,7 @@ def main():
         key_focus = st.text_area("Key Focus / Angle", value="")
         article_length = st.selectbox(
             "Desired Article Length",
-            ["Short (500-700 words)", "Medium (800-1200 words)", "Long (1200+ words)"]
+            ["Long (1200+ words)"]
         )
         style_tone = st.selectbox(
             "Style / Tone",
