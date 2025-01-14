@@ -1,0 +1,7 @@
+openai
+langchain 
+tiktoken
+langchain-openai 
+tavily-python
+langchain-community
+langchain-core
